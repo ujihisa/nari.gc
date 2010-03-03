@@ -26,3 +26,5 @@ GCを全く知らないプログラミング初級者から、GCを毎日実装�
 ## 今後の更新
 
 常にこのページを更新していきます。RSSを購読するとよいでしょう。
+
+<http://github.com/feeds/ujihisa/commits/nari.gc/master>

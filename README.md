@@ -36,6 +36,19 @@ GCを全く知らないプログラミング初級者から、GCを毎日実装�
 
 <http://cotocoto.jp/event/38155>
 
+現在の参加者一覧:
+
+* ujihisa
+* akineko
+* しゃみの
+* 西本 圭佑
+* alohakun
+* 北村雅史
+* murase\_syuka
+* nari
+* Akihiro Yamasaki
+* ひがき
+
 ## 今後の更新
 
 常にこのページを更新していきます。RSSを購読するとよいでしょう。

@@ -55,7 +55,7 @@ GCを全く知らないプログラミング初級者から、GCを毎日実装�
 * nari
 * Akihiro Yamasaki
 * ひがき
-* shin_asou
+* shin\_asou
 * 倉掛　倫明
 * 篠原勝幸
 * 木本 雅博

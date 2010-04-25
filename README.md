@@ -86,3 +86,7 @@ GCを全く知らないプログラミング初級者から、GCを毎日実装�
 常にこのページを更新していきます。RSSを購読するとよいでしょう。
 
 <http://github.com/feeds/ujihisa/commits/nari.gc/master>
+
+## 参考リンク
+
+* <http://d.hatena.ne.jp/authorNari/20100425/1272178952> 著者による読書会の案内です

@@ -75,7 +75,7 @@ GCを全く知らないプログラミング初級者から、GCを毎日実装�
 
 ## 勉強会の前後
 
-午前中: 未定
+午前中: GHC LLVMBackend勉強会 (Haskell勉強会) が開催されます。 <http://cotocoto.jp/event/39693>
 
 勉強会終了後:
 

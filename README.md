@@ -37,8 +37,15 @@
     * 1~2分
 * ScalaのGC ([keisuke\_n](http://twitter.com/keisuke_n))
     * 10~15分
-* 基調講演 ([nari](http://twitter.com/nari3))
-    * 4~5時間
+* 基調講演：「GC本のツクリカタ」 ([nari](http://twitter.com/nari3))
+    * 60分（そのうち10分くらいを質疑応答とします）
+    * なぜGC本を書こうと思ったか
+    * 当初想定していた目次案（夢の話）
+    * GCの実装を読むコツ
+    * GCバッドノウハウ集
+    * GC本に書けなかったこと
+      * OpenJDKのGCについて（JVM）
+      * CRubyのGCについて
 * GC開発
     * ?
 

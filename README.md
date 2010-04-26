@@ -41,8 +41,9 @@
     * GC本に書けなかったこと
       * OpenJDKのGCについて（JVM）
       * CRubyのGCについて
-* GC開発
-    * ?
+* コードリーディング
+    * `[ruby-dev:41067] [Feature #3203] LazySweepGC patch`
+    * このパッチをみんなで読みます
 
 ## 定員
 

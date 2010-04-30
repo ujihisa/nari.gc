@@ -80,6 +80,9 @@ GCを全く知らないプログラミング初級者から、GCを毎日実装�
 * kakkun61(conoeno)
 * okkez
 * main\_C
+* digitalghost
+* kiy0taka
+* 西村 友裕 (Sixeight)
 
 ## 勉強会の前後
 

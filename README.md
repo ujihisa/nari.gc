@@ -76,6 +76,10 @@ GCを全く知らないプログラミング初級者から、GCを毎日実装�
 * mnishikawa
 * yaotti
 * kmt-t
+* muxukeikei
+* kakkun61(conoeno)
+* okkez
+* main\_C
 
 ## 勉強会の前後
 

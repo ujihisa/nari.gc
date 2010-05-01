@@ -83,6 +83,7 @@ GCを全く知らないプログラミング初級者から、GCを毎日実装�
 * digitalghost
 * kiy0taka
 * 西村 友裕 (Sixeight)
+* lasar56066
 
 ## 勉強会の前後
 

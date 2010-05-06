@@ -90,6 +90,9 @@ GCを全く知らないプログラミング初級者から、GCを毎日実装�
 * asheltw
 * なぎせゆうき
 * thimura
+* Tomoaki Sano(ryan)
+* Yuya
+* keizi
 
 ## 勉強会の前後
 

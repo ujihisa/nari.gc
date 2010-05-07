@@ -8,11 +8,14 @@
 
 10am ~ 6pm
 
+* 9amには開場しています
+* 受付は午前の部10am, 午後の部1pmです
+
 (その前後の時間にも関連するイベントがあります。詳しくはこのページ下部をご覧下さい)
 
 ## 場所
 
-大阪府吹田市 千里公民館 第一講座室
+大阪府豊中市 千里公民館 第一講座室
 
 <http://www.city.toyonaka.osaka.jp/top/jinken_gakushu/kouminkan/senri/gaiyou.html>
 
@@ -23,7 +26,7 @@
 
 ## プログラム
 
-午前
+午前 10am~
 
 * GC Hackathon
     * みんなで自由にGCを実装したり改造します
@@ -31,13 +34,14 @@
     * 著者がいますのでいろいろ追求することもできます
     * LLVM HackathonでもOKです
 * その後ランチ。食べに行ってもよいし、会場で食べるのもよいです
+    * 個人的にこれに興味あり: <http://tako.osakazine.net/c3167.html>
 
-午後
+午後 1pm~
 
 * はじめに ([ujihisa](http://twitter.com/ujm))
     * 1~2分
 * Scalaで実装するGC ([keisuke\_n](http://twitter.com/keisuke_n))
-    * 10~15分
+    * 20~25分
 * 読書会 (Rubinius)
     * 実装編のRubiniusの章をみんなで読みます
     * 時間ごとに読む範囲を決め、その範囲内で各自が殺伐と読みふけり、疑問点や思ったことは必ず声に出して主張しなければならないルールです
@@ -78,6 +82,8 @@ GCを全く知らないプログラミング初級者から、GCを毎日実装�
 
 現在の参加者一覧:
 
+## 勉強会の前後
+
 * ujihisa
 * akineko
 * しゃみの
@@ -114,8 +120,11 @@ GCを全く知らないプログラミング初級者から、GCを毎日実装�
 * keizi
 * s-kbys
 * znz
-
-## 勉強会の前後
+* mollifier
+* tama
+* ohai
+* kurisaka\_konabe
+* cuzic
 
 勉強会終了後:
 
@@ -127,6 +136,13 @@ GCを全く知らないプログラミング初級者から、GCを毎日実装�
 常にこのページを更新していきます。RSSを購読するとよいでしょう。
 
 <http://github.com/feeds/ujihisa/commits/nari.gc/master>
+
+## 公式チャットルーム
+
+Lingrのgc部屋です。
+
+* Lingrアカウントをお持ちの方用のURL: <http://lingr.com/room/gc>
+* Lingrアカウントをお持ちでない方用のURL: <http://lingr.com/signup?letmein=gc>
 
 ## 参考リンク
 
